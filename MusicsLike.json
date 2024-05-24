@@ -1,0 +1,17 @@
+{
+  "success": true,
+  "data": [
+    { "id": 1, "number": 1, "text": "Animadas Manhã" },
+    { "id": 2, "number": 1, "text": "Happy Hour" },
+    { "id": 3, "number": 1, "text": "Especiais de Verão" },
+    { "id": 4, "number": 1, "text": "Tarde Tranquila" },
+    { "id": 5, "number": 1, "text": "Feliz Natal" },
+    { "id": 6, "number": 1, "text": "Final de Semana" },
+    { "id": 7, "number": 1, "text": "Animadas Manhã" },
+    { "id": 8, "number": 1, "text": "Happy Hour" },
+    { "id": 9, "number": 1, "text": "Especiais de Verão" },
+    { "id": 10, "number": 1, "text": "Tarde Tranquila" },
+    { "id": 11, "number": 1, "text": "Feliz Natal" },
+    { "id": 12, "number": 1, "text": "Final de Semana" }
+  ]
+}

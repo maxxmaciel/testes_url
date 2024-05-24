@@ -1,0 +1,115 @@
+{
+  "not_used": [],
+  "not_used_total": 0,
+  "used": [
+    {
+      "acl": [343],
+      "i": 903,
+      "last_view": "Fri, 10 May 2024 19:50:43 GMT",
+      "n": "20240506_Gerdau1_Vert_esq_SOM"
+    },
+    {
+      "acl": [343],
+      "i": 904,
+      "last_view": "Fri, 24 May 2024 12:40:40 GMT",
+      "n": "20240506_Gerdau2_Vert_esq_SOM"
+    },
+    {
+      "acl": [343],
+      "i": 905,
+      "last_view": "Wed, 15 May 2024 20:18:00 GMT",
+      "n": "20240506_Obra_Premiada_VERT_esq_SOM"
+    },
+    {
+      "acl": [343],
+      "i": 906,
+      "last_view": "Thu, 23 May 2024 19:06:48 GMT",
+      "n": "20240506_Tigre1_Vert_esq_SOM"
+    },
+    {
+      "acl": [343],
+      "i": 907,
+      "last_view": "Fri, 10 May 2024 20:07:11 GMT",
+      "n": "20240506_Tigre2_Vert_esq_SOM"
+    },
+    {
+      "acl": [343],
+      "i": 908,
+      "last_view": "Fri, 10 May 2024 19:58:56 GMT",
+      "n": "20240506_Votorantim_Vert_esq_SOM"
+    },
+    {
+      "acl": [343],
+      "i": 913,
+      "last_view": "Fri, 24 May 2024 12:39:26 GMT",
+      "n": "20240510_retail_VC_VERT_esq_ComSom"
+    },
+    {
+      "acl": [343],
+      "i": 914,
+      "last_view": "Fri, 24 May 2024 12:43:59 GMT",
+      "n": "20240510_retail_GERDAU_VERT_esq_ComSom"
+    },
+    {
+      "acl": [343],
+      "i": 915,
+      "last_view": "Fri, 24 May 2024 12:43:59 GMT",
+      "n": "20240510_retail_TIGRE_VERT_esq_ComSom"
+    },
+    {
+      "acl": [343],
+      "i": 916,
+      "last_view": "Sat, 18 May 2024 15:48:34 GMT",
+      "n": "20240506_Gerdau2_H_SOM"
+    },
+    {
+      "acl": [343],
+      "i": 917,
+      "last_view": "Sat, 18 May 2024 15:26:31 GMT",
+      "n": "20240502_Promo_Renova_Tudo_Torturella"
+    },
+    {
+      "acl": [343],
+      "i": 918,
+      "last_view": "Wed, 15 May 2024 19:17:46 GMT",
+      "n": "20240506_Obra_Premiada_H_SOM"
+    },
+    {
+      "acl": [343],
+      "i": 919,
+      "last_view": "Sat, 18 May 2024 15:52:48 GMT",
+      "n": "20240510_retail_TIGRE_1_H_ComSom"
+    },
+    {
+      "acl": [343],
+      "i": 920,
+      "last_view": "Sat, 18 May 2024 15:28:38 GMT",
+      "n": "20240510_retail_VC_1_H_ComSom"
+    },
+    {
+      "acl": [343],
+      "i": 921,
+      "last_view": "Sat, 18 May 2024 15:29:10 GMT",
+      "n": "20240506_Tigre1_H_SOM"
+    },
+    {
+      "acl": [343],
+      "i": 922,
+      "last_view": "Sat, 18 May 2024 15:21:34 GMT",
+      "n": "20240510_retail_GERDAU_1_H_ComSom"
+    },
+    {
+      "acl": [343],
+      "i": 924,
+      "last_view": "Fri, 24 May 2024 11:10:30 GMT",
+      "n": "20240515_Obra_Premiada_VERT_esq_COM_SOM"
+    },
+    {
+      "acl": [343],
+      "i": 925,
+      "last_view": "Sat, 18 May 2024 15:25:59 GMT",
+      "n": "20240515_Obra_Premiada_H_COM_SOM"
+    }
+  ],
+  "used_total": 18
+}
